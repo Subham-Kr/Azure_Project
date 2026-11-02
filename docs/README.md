@@ -1,3 +1,3 @@
 # Documentation
 
-This folder was added to the repository as a starting point for project notes, guides, or supporting files.
+This directory has been renamed to `Raw Data`. Please use the `Raw Data` folder for notes, guides, or supporting files.
